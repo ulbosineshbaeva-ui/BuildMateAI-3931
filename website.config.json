@@ -1,14 +1,17 @@
 {
   "site": {
-    "name": "Minimal Starter",
-    "tagline": "Your Creative Canvas",
-    "description": "A clean, minimal starter template providing the perfect foundation for your next project. Built with modern tools and ready for your creativity.",
-    "ogImage": "/og-image.png",
+    "name": "BuildMate AI",
+    "tagline": "Construction Engineering AI Platform",
+    "description": "BuildMate AI is a modern construction engineering assistant designed to calculate materials, create construction estimates, recognize materials from images, and simplify technical construction information using artificial intelligence.",
+    "ogImage": "/hero-construction-RrJ87.png",
     "twitterHandle": "",
     "contact": {
-      "email": "contact@example.com",
-      "company": "Your Company",
-      "address": ""
+      "email": "contact@buildmate-ai.com",
+      "company": "BuildMate AI",
+      "address": "",
+      "telegram": "https://t.me/azamat_khulenov",
+      "supportBot": "http://t.me/azamatkhulenov_bot",
+      "developer": "Azamat Kulenov"
     },
     "legal": {
       "privacyPolicy": "/privacy",
@@ -16,6 +19,6 @@
     }
   },
   "theme": {
-    "defaultTheme": "dark"
+    "defaultTheme": "light"
   }
 }

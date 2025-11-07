@@ -8,11 +8,13 @@ export interface SiteConfig {
   ogImage: string;
   twitterHandle: string;
 
-  // Contact and legal
   contact: {
     email: string;
     company: string;
     address: string;
+    telegram?: string;
+    supportBot?: string;
+    developer?: string;
   };
 
   legal: {
